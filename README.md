@@ -2,8 +2,8 @@
 
 ```
 swc:
-  36 835 ops/s, ±4.20%   | fastest
+  1 813 ops/s, ±15.60%    | slowest, 93.94% slower
 
 babel:
-  16 814 ops/s, ±11.80%   | slowest, 54.35% slower
+  29 897 ops/s, ±1.62%   | fastest
 ```

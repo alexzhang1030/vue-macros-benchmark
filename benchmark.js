@@ -32,7 +32,7 @@ b.suite(
         }
       }
     }))
-    Promise.all(arr)
+    await Promise.all(arr)
   }),
 
   b.add('babel', async () => {
