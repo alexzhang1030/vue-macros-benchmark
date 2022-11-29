@@ -1,6 +1,6 @@
 # benchmark
 
-> Achieve This Unless I Figure out Why SWC is so slow
+> Archive This Unless I Figure out Why SWC is so slow
 
 ```
 swc:
